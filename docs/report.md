@@ -1,8 +1,5 @@
 # Deep Dive Final Report: Q-Learning
 
-## Project Overview
-
-
 ## Introduction to Q-Learning
 
 ### Q-Learning as Reinforcement Learning
