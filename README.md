@@ -28,6 +28,11 @@ This project contains the following files:
 │   ├── test/kotlin
 │   │   ├── AgentTest.kt
 │   │   ├── WarehouseEnvTest.kt
+├── docs
+│   ├── gifs
+│   ├── images
+│   ├── proposal.md
+│   ├── report.md
 ├── .gitignore
 ├── pom.xml
 ├── README.md
@@ -39,3 +44,8 @@ This project contains the following files:
 - `Visualizer.kt`: code for animating Q-Learning episodes and plotting information about training sessions
 - `Utility.kt`: useful data classes and enums that are used across the project
 - `Main.kt`: the file where it all comes together!
+
+
+  `docs` houses all documentation of my project. The two important files in here are:
+- `proposal.md`: my project proposal! It contains learning goals, planned deliverables, and a project timeline.
+- `report.md`: my final report! It contains my background research, methodology, and results, as well as ideas for future work.
