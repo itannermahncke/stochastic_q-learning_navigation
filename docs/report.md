@@ -1,4 +1,4 @@
-# Deep Dive Final Report: Q-Learning
+# Deep Dive Final Report: Q-Learning For Stochastic Environment Navigation
 
 ## Introduction to Q-Learning
 
