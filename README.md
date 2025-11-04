@@ -45,7 +45,6 @@ This project contains the following files:
 - `Utility.kt`: useful data classes and enums that are used across the project
 - `Main.kt`: the file where it all comes together!
 
-
-  `docs` houses all documentation of my project. The two important files in here are:
+`docs` houses all documentation of my project. The two important files in here are:
 - `proposal.md`: my project proposal! It contains learning goals, planned deliverables, and a project timeline.
 - `report.md`: my final report! It contains my background research, methodology, and results, as well as ideas for future work.
