@@ -120,7 +120,7 @@ I decided to implement the Epsilon-Greedy policy to inform my agent's action sel
 I chose the following parameters for my policy:
 - $\epsilon_{initial}=1.0$
 - $\epsilon_{minimum}=0.10$
-- $decay_{rate}=0.995$
+- decay_rate$=0.995$
 
 These values resulted in the following decay over 500 episodes:
 
