@@ -18,7 +18,7 @@ Q-Learning is special in that it is a model-free algorithm, meaning that it does
 
 Q-values are updated by the algorithm using the following formula:
 
-$Q_{new}(S_t,A_t)←(1-\alpha)*Q(S_t,A_t)+α(R+γ*maxQ(S_{t+1}))$
+$Q_{new}(S_t,A_t)=(1-\alpha)*Q(S_t,A_t)+α(R+γ*maxQ(S_{t+1}))$
 
 This formula is made up of three terms. The first term represents the weighted current Q-value, while the second term represents the weighted new Q-value. The key parameters in the formula have the following meanings:
 - $R$ (reward)
