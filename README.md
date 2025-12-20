@@ -39,7 +39,7 @@ This project contains the following files:
 ```
 
 `src` houses the source code for this project. Here's a quick descriptor of the contents:
-- `Agent.kt`: my implementation of the Q-Learning algorithm (accompanied by unit tests in `AgentTest.kt`)- `Agent.kt`: my implementation of the Q-Learning algorithm (accompanied by unit tests in `AgentTest.kt`)
+- `Agent.kt`: my implementation of the Q-Learning algorithm (accompanied by unit tests in `AgentTest.kt`)
 - `WarehouseEnv.kt`: my warehouse environment model, capable of being deterministic or stochastic (accompanied by unit tests in `WarehouseEnvTest.kt`)
 - `Visualizer.kt`: code for animating Q-Learning episodes and plotting information about training sessions
 - `Utility.kt`: useful data classes and enums that are used across the project
@@ -48,3 +48,7 @@ This project contains the following files:
 `docs` houses all documentation of my project. The two important files in here are:
 - `proposal.md`: my project proposal! It contains learning goals, planned deliverables, and a project timeline.
 - `report.md`: my final report! It contains my background research, methodology, and results, as well as ideas for future work.
+
+## Usage
+
+To test it out yourself, simply clone the repository and run `Main.kt`!
